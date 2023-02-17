@@ -1,1 +1,1 @@
-TouchDesignerでOSCを受け取るサンプルです
+TouchDesignerでOSCを受け取るサンプル
